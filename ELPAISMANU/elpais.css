@@ -1,0 +1,55 @@
+p {
+    font-family: helvetica;
+    padding-left: 33vw;
+    padding-right: 33vw;
+    line-height: 1.6;
+  
+}
+
+ h1 {
+    font-family:serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+ h2 { 
+     font-family: "helvetica";
+     box-sizing: content-box;
+     
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     width: 600px;
+     font-size: 20px;
+     margin-bottom: 200px;
+   
+}
+
+h3 {
+    font-family: helvetica;
+    padding-left: 33vw;
+    padding-right: 33vw;
+}
+img {
+    max-width: 600px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+imagen1 {
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+p span {
+    float: left;
+  width: 0.7em;
+  font-size: 700%;
+line-height: 70%;
+    
+}
+a {
+    border-bottom: 2px dotted;
+    color: black;
+    text-decoration-line: none;
+}
