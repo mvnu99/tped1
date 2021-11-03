@@ -1,0 +1,32 @@
+body{
+    background-color: black
+}
+header {
+
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+section {
+    background-color: lightgoldenrodyellow;
+}
+
+.contenedor-galeria {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: auto;
+    
+}
+.imagen {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 30px;
+    object-fit: cover;
+    
+}
+.imagen:hover {
+    filter: blur(5px);
+}
