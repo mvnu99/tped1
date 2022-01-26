@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(0, 0, 0);
+font: Helvetica;
+}
+.navbar-brand {
+    width:150px;
+    height:auto;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.61) !important;
+}
+.navbar a{
+    font-size: 20px;
+    color: rgb(255, 254, 255) !important;
+  
+}
+.navbar a:hover{
+ color: rgb(162, 0, 255) !important;
+}
+
+img{
+    filter:saturate(0%);
+
+}
+img:hover{
+    filter: saturate(100%);
+    transition: all 0.2s;
+}
+col-md-4{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
